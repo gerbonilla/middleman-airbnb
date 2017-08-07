@@ -1,0 +1,9 @@
+- city: 'Shanghai'
+  url: 'https://kitt.lewagon.com/placeholder/cities/Shanghai'
+  category: 'Popular'
+  description: 'Very cool city, the best'
+- city: 'Rio'
+  url: 'https://kitt.lewagon.com/placeholder/cities/Rio'
+  category: 'Popular'
+  description: 'Very cool city, the best'
+
